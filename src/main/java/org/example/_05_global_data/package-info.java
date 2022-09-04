@@ -1,0 +1,1 @@
+package org.example._05_global_data;
