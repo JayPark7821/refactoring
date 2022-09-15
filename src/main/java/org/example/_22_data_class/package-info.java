@@ -1,0 +1,1 @@
+package org.example._22_data_class;
